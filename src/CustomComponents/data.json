@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "KFC-like Fried Chicken Recipe",
+      "description": "Who doesn't love KFC chicken? Well here is an attempt at the magical KFC chicken and it sure tastes good. Chicken pieces dipped in eggs, corn flour, corn flakes to give it a delightfully crispy exterior, this delicious chicken recipe is ideal to serve as an appetizer and would be loved by everyone.",
+      "imageUrl": "https://t3.ftcdn.net/jpg/05/41/62/96/360_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "checken 65 reciepe",
+      "description": "One of the spiciest chicken delicacies of South Indian cuisine, Chicken 65 is a delight for meat lovers. It can be enjoyed on any occasion and is super-easy to make. If you are wondering how to make this delicacy, then here is the detailed recipe of Chicken 65 explained with step-by-step images. So, what are you wondering? Go for this amazing chicken 65 recipe and let us know your feedback in the comment box below.",
+      "imageUrl": "https://recipe52.com/wp-content/uploads/2019/04/Chicken-65-1-of-1-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Rice Recipes",
+      "description": "Rice is a staple in Indian Cuisine. Obviously, apart from simple steamed rice, a variety of rice dishes are made in Indian cuisine. In this category, you will find vegetarian and vegan rice recipes. Some of the rice recipes are naturally gluten-free too.We have steamed rice with lentils (dal) and curries. Apart from steamed rice being cooked in almost every household, there are some other standalone recipes that are exclusively made with rice.",
+      "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/biryani-recipe-1-280x280.jpg"
+    },
+      {
+      "id": 4,
+      "title": "Thandoori chicken",
+      "description": "Try this authentic tandoori chicken that's marinated in yogurt and spices, then cooked on the grill instead of a clay oven so you can make it at home. Serve with long-grain basmati rice, grilled veggies, roasted corn on the cob, and a cucumber salad",
+      "imageUrl": "https://www.allrecipes.com/thmb/vajnGE6AAPOlbkBurGXML7ptfqM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/50347-indian-tandoori-chicken-DDMFS-4x3-3035-205e98c80b2f4275b5bd010c396d9149.jpg"
+    },
+      {
+      "id": 5,
+      "title": "Easy Indian Butter Chicken",
+      "description": "An easy butter chicken recipe I've perfected over the years and shared with many others. The sauce is perfect when creamy and not too thick or too thin. The level of salt and spices can be suited to your taste. Garam and tandoori masala can be found in the ethnic aisle of your grocery store.",
+      "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5692693.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
+    },
+      {
+      "id": 6,
+      "title": "Curry Stand Chicken Tikka Masala Sauce",
+      "description": "A tikka masala sauce from a classic curry-stand recipe. This is not haute cuisine; it's the kind of nuclear-orange tikka masala you crave when you stumble out of a pub at 2 a.m. I make vast quantities of this sauce at one time as it freezes well. I also use more cayenne pepper than 1 teaspoon, but I give out the recipe like this for people who don't like heat.",
+      "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5504832.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
+    }
+  ]
+  

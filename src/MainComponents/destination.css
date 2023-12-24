@@ -1,0 +1,29 @@
+.container-fluid {
+    width: 100%;
+   
+  }
+  
+  .container-content {
+    max-width: 1200px; /* Set a max-width for the content */
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .centered-div {
+    width: 100%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the div horizontally */
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  }
+  
+  .centered-div p {
+    margin: 0; /* Remove default margin for the paragraph inside the div */
+    color: black; /* Set text color */
+    /* Add any other styles you want for the centered text */
+  }
+
+  .min-height {
+    min-height: 100vh; 
+  }

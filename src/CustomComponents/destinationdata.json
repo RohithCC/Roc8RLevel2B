@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Italy",
+      "description": "Discover the beauty of italy",
+       "imageUrl": "https://res.cloudinary.com/dlkcxiz0l/image/upload/f_auto,q_auto/v1/avatars/axh4wbrxnybhyfseiunc",
+      "color": "blue",
+      "txt1": "Italy: A Tapestry of Culture, Cuisine, and History Nestled in the heart of the Mediterranean, Italy is a country that captivates the imagination with its rich tapestry of culture, cuisine, and history. From the iconic Colosseum in Rome to the romantic canals of Venice, Italy is a living museum where every cobblestone tells a story.",
+      "txt2": "Italy's influence on art, fashion, and architecture reverberates globally. The Renaissance, a period of unparalleled creativity, originated in Italy, giving birth to masterpieces by Michelangelo, Leonardo da Vinci, and Raphael. The country's cities are open-air galleries, with Florence housing treasures like Botticelli's The Birth of Venus.",
+      "txt3": "Whether wandering through the charming streets of Cinque Terre or exploring the ancient ruins of Pompeii, Italy invites travelers to step into a world where past and present seamlessly coexist. With a culture that values family, friends, and savoring the simple pleasures of life, Italy welcomes visitors with open arms, inviting them to become part of its enduring story.",
+      "txt4": "Beyond the tangible treasures, Italy's spirit is embedded in its festivals and traditions. The colorful and historical Palio di Siena, the passionate celebration of Carnivale in Venice, and the vibrant Festa della Repubblica showcase Italy's zest for life.",
+      "txt5": "Savor italian cusion",
+      "txt6": "Italy: A Tapestry of Culture, Cuisine, and History Nestled in the heart of the Mediterranean, Italy is a country that captivates the imagination with its rich tapestry of culture, cuisine, and history. From the iconic Colosseum in Rome to the romantic canals of Venice, Italy is a living museum where every cobblestone tells a story.      ",
+      "citie1": "Rome",
+      "citie2": "Venice"
+    },
+    {
+      "id": 2,
+      "title": "Tokeyo",
+      "description": "Discover the Beauty of Tokeyo",
+      "imageUrl": "https://res.cloudinary.com/dlkcxiz0l/image/upload/f_auto,q_auto/itui3wow6vgn7mv7byue",
+      "color": "yellow",
+      "txt1": "Tokyo, the bustling capital of Japan, stands as a testament to the harmonious coexistence of cutting-edge innovation and timeless traditions. As one of the most populous and dynamic cities in the world, Tokyo is a vibrant tapestry of culture, technology, and history.",
+      "txt2": "At its core, Tokyo is a modern metropolis where skyscrapers pierce the sky and neon lights illuminate the bustling streets. The city serves as a global hub for technology and innovation, housing some of the world's leading technological companies. From the iconic Tokyo Tower to the futuristic district of Akihabara, the cityscape is a testament to Japan's prowess in blending the contemporary with the traditional.",
+      "txt3": "Yet, amid the modernity, Tokyo preserves its rich cultural heritage. Historic temples, such as Senso-ji in Asakusa, and serene gardens like Shinjuku Gyoen provide a tranquil escape from the urban hustle. The traditional tea ceremonies and the art of cherry blossom viewing during springtime showcase the deep-rooted traditions that coexist seamlessly with the fast-paced urban lifestyle.",
+      "txt4": "Tokyo's neighborhoods offer a diverse range of experiences. Shibuya Crossing, a symbol of the city's energy, is one of the busiest pedestrian crossings globally, while the fashion-forward district of Harajuku is a haven for trendsetters and unique street styles. The culinary scene is a gastronomic adventure, from Michelin-starred sushi establishments to lively street food markets.",
+      "txt5": "Tokyo is a city that seamlessly merges the ultramodern with the timeless",
+      "txt6": "Tokyo's efficient and punctual public transportation system, including the iconic Shinkansen bullet trains, facilitates seamless travel across the city and beyond. Each ward, from the historic Ueno to the upscale Ginza, contributes to the multifaceted identity of Tokyo. ",
+      "citie1": "Shibuya",
+      "citie2": "Asakusa"
+    },
+    {
+      "id": 3,
+      "title": "Bali",
+      "description": "Discover the Beauty of Bali",
+      "imageUrl": "https://res.cloudinary.com/dlkcxiz0l/image/upload/f_auto,q_auto/v1/avatars/gfjli7deoq97ckzlaw8s",
+      "color": "green",
+      "txt1": "Nestled in the Indonesian archipelago, Bali is a tropical paradise that beckons travelers with its stunning landscapes, rich cultural tapestry, and spiritual allure. Known as the Island of the Gods, Bali seamlessly blends natural wonders with vibrant traditions, creating a destination that captivates the heart and soul.",
+      "txt2": "The island's landscape is a mosaic of lush green rice terraces, dense jungles, and pristine beaches framed by azure waters. Iconic landmarks such as the sea temple of Tanah Lot and the emerald-green Tegallalang Rice Terraces showcase Bali's enchanting natural beauty, drawing artists, nature lovers, and spiritual seekers alike.",
+      "txt3": "Balinese culture is deeply rooted in Hindu traditions, evident in the ornate temples that dot the island. The rhythmic sounds of traditional Gamelan music and the captivating Barong dance performances tell tales of ancient folklore and mythology. Ubud, Bali's cultural heart, is a haven for artists, where galleries, workshops, and vibrant markets celebrate creativity and craftsmanship.",
+      "txt4": "Spirituality permeates every corner of Bali, with countless temples, each telling a story of devotion and reverence. The sacred Pura Besakih, Bali's largest temple complex nestled on the slopes of Mount Agung, stands as a testament to the islanders' spiritual connection with the land and gods.",
+      "txt5": " Bali is not just a destination; it's a spiritual journey, an artistic expression",
+      "txt6": "Balinese hospitality, warmth, and the concept of Tri Hita Karana (harmony between people, nature, and the divine) make Bali a welcoming destination. The cuisine, with its tantalizing flavors of local spices and fresh ingredients, provides a delightful journey for the taste buds.   ",
+      "citie1": "ubud",
+      "citie2": "kuta"
+    },
+    {
+        "id": 4,
+        "title": "Rome",
+        "description": "Discover the Beauty of Rome",
+        "imageUrl": "https://res.cloudinary.com/dlkcxiz0l/image/upload/f_auto,q_auto/id9z3mjbgiepook3l43k",
+        "color": "red",
+        "txt1": "Situated along the banks of the Tiber River, Rome, the capital of Italy, is a city where the echoes of history resonate through cobblestone streets and ancient ruins. Known as the Eternal City, Rome stands as a living testament to the grandeur of the Roman Empire and the enduring influence of its rich cultural heritage.",
+        "txt2": "At the heart of Rome lies the iconic Colosseum, a symbol of ancient engineering marvel and the stage for gladiatorial contests that once entertained Roman citizens. Nearby, the Roman Forum, a sprawling archaeological site, invites visitors to wander through the remnants of temples, basilicas, and government buildings that once formed the core of ancient Rome.",
+        "txt3": "The Vatican City, an independent city-state within Rome, houses treasures like St. Peter's Basilica and the Sistine Chapel. Michelangelo's masterpieces, including the awe-inspiring frescoes on the chapel's ceiling, draw art enthusiasts and pilgrims from around the world.  ",
+        "txt4": "Rome's historic charm extends beyond its monumental landmarks. The Spanish Steps, the Trevi Fountain, and the Pantheon are architectural gems that punctuate the cityscape, each telling a story of artistic achievement and cultural significance.",
+        "txt5": "The spirit of Rome is not just confined to its monuments",
+        "txt6": "Wandering through the city's narrow alleys, visitors encounter vibrant neighborhoods like Trastevere, where charming piazzas and medieval streets invite exploration. The juxtaposition of ancient and modern, seen in the juxtaposition of historic landmarks and contemporary boutiques, creates a unique and captivating atmosphere. ",
+        "citie1": "collosem",
+        "citie2": "Roman Forum"
+      }
+  ]
+  
